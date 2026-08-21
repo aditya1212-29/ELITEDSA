@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/aditya1212-29/ELITEDSA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/aditya1212-29/ELITEDSA/tree/master/0073-set-matrix-zeroes) |
+| [0118-pascals-triangle](https://github.com/aditya1212-29/ELITEDSA/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/aditya1212-29/ELITEDSA/tree/master/0169-majority-element) |
 | [3819-rotate-non-negative-elements](https://github.com/aditya1212-29/ELITEDSA/tree/master/3819-rotate-non-negative-elements) |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/aditya1212-29/ELITEDSA/tree/master/3877-minimum-removals-to-achieve-target-xor) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/aditya1212-29/ELITEDSA/tree/master/0118-pascals-triangle) |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/aditya1212-29/ELITEDSA/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 ## Bit Manipulation
 |  |
