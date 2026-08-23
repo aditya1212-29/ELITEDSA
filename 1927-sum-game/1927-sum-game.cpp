@@ -26,10 +26,6 @@ public:
         rightSum = findSum(num.substr(n/2));
         left = cnt(num.substr(0, n/2));
         right = cnt(num.substr(n/2));
-        cout<<leftSum<<endl;
-        cout<<rightSum<<endl;
-        cout<<left<<endl;
-        cout<<right<<endl;
         if(leftSum == rightSum){
             if(left == right)
             return 0;
