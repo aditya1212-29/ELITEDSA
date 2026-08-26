@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/aditya1212-29/ELITEDSA/tree/master/1927-sum-game) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/aditya1212-29/ELITEDSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Greedy
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/aditya1212-29/ELITEDSA/tree/master/0713-subarray-product-less-than-k) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/aditya1212-29/ELITEDSA/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/aditya1212-29/ELITEDSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Prefix Sum
 |  |
 | ------- |
