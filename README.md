@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/aditya1212-29/ELITEDSA/tree/master/0006-zigzag-conversion) |
 | [1927-sum-game](https://github.com/aditya1212-29/ELITEDSA/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/aditya1212-29/ELITEDSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Greedy
