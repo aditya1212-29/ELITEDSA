@@ -13,12 +13,7 @@ public:
         }
         sort(p.begin(), p.end(), mycmp);
         priority_queue<pair<int, int>, vector<pair<int,int>>, greater<pair<int, int>>>pq;
-        if(p[0].first <= capacity){
-        pq.push({p[0].second.second, p[0].first});
-        capacity -= p[0].first;
-        }
-        else return 0;
-        for(int i = 1 ; i < n; i++){
+        for(int i = 0 ; i < n; i++){
             while(!pq.empty() && p[i].second.first >= pq.top().first){
                 capacity += pq.top().second;
                 pq.pop();
