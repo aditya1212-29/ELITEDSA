@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/aditya1212-29/ELITEDSA/tree/master/0005-longest-palindromic-substring) |
 | [0118-pascals-triangle](https://github.com/aditya1212-29/ELITEDSA/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/aditya1212-29/ELITEDSA/tree/master/0152-maximum-product-subarray) |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/aditya1212-29/ELITEDSA/tree/master/3877-minimum-removals-to-achieve-target-xor) |
@@ -82,12 +83,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/aditya1212-29/ELITEDSA/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/aditya1212-29/ELITEDSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/aditya1212-29/ELITEDSA/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aditya1212-29/ELITEDSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/aditya1212-29/ELITEDSA/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/aditya1212-29/ELITEDSA/tree/master/0006-zigzag-conversion) |
 | [1927-sum-game](https://github.com/aditya1212-29/ELITEDSA/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/aditya1212-29/ELITEDSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -122,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1094-car-pooling](https://github.com/aditya1212-29/ELITEDSA/tree/master/1094-car-pooling) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/aditya1212-29/ELITEDSA/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
