@@ -52,7 +52,7 @@ public:
                 ans.push_back(0);
                 continue;
             }
-            ans.push_back((ans2 - ans1) - (pre[ans2] - pre[ans1]));
+            ans.push_back((ans2 - ans1) - (pre[ans2] - pre[ans1]));  // kitane plates hai beech me wo toh hatana padega na
         }
         return ans;
     }
