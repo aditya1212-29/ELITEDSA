@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/aditya1212-29/ELITEDSA/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/aditya1212-29/ELITEDSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/aditya1212-29/ELITEDSA/tree/master/0049-group-anagrams) |
+| [0059-spiral-matrix-ii](https://github.com/aditya1212-29/ELITEDSA/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/aditya1212-29/ELITEDSA/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/aditya1212-29/ELITEDSA/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/aditya1212-29/ELITEDSA/tree/master/0152-maximum-product-subarray) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/aditya1212-29/ELITEDSA/tree/master/0048-rotate-image) |
+| [0059-spiral-matrix-ii](https://github.com/aditya1212-29/ELITEDSA/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/aditya1212-29/ELITEDSA/tree/master/0073-set-matrix-zeroes) |
 ## Math
 |  |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/aditya1212-29/ELITEDSA/tree/master/0059-spiral-matrix-ii) |
 | [1094-car-pooling](https://github.com/aditya1212-29/ELITEDSA/tree/master/1094-car-pooling) |
 | [3819-rotate-non-negative-elements](https://github.com/aditya1212-29/ELITEDSA/tree/master/3819-rotate-non-negative-elements) |
 ## Dynamic Programming
