@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2055-plates-between-candles](https://github.com/aditya1212-29/ELITEDSA/tree/master/2055-plates-between-candles) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/aditya1212-29/ELITEDSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/aditya1212-29/ELITEDSA/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/aditya1212-29/ELITEDSA/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [3637-trionic-array-i](https://github.com/aditya1212-29/ELITEDSA/tree/master/3637-trionic-array-i) |
 | [3819-rotate-non-negative-elements](https://github.com/aditya1212-29/ELITEDSA/tree/master/3819-rotate-non-negative-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aditya1212-29/ELITEDSA/tree/master/3875-construct-uniform-parity-array-i) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/aditya1212-29/ELITEDSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/aditya1212-29/ELITEDSA/tree/master/0229-majority-element-ii) |
 | [1094-car-pooling](https://github.com/aditya1212-29/ELITEDSA/tree/master/1094-car-pooling) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/aditya1212-29/ELITEDSA/tree/master/2517-maximum-tastiness-of-candy-basket) |
 ## Counting
 |  |
 | ------- |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1927-sum-game](https://github.com/aditya1212-29/ELITEDSA/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/aditya1212-29/ELITEDSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/aditya1212-29/ELITEDSA/tree/master/2517-maximum-tastiness-of-candy-basket) |
 ## Game Theory
 |  |
 | ------- |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/aditya1212-29/ELITEDSA/tree/master/0713-subarray-product-less-than-k) |
 | [2055-plates-between-candles](https://github.com/aditya1212-29/ELITEDSA/tree/master/2055-plates-between-candles) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/aditya1212-29/ELITEDSA/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/aditya1212-29/ELITEDSA/tree/master/2517-maximum-tastiness-of-candy-basket) |
 ## Sliding Window
 |  |
 | ------- |
