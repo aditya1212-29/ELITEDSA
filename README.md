@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/aditya1212-29/ELITEDSA/tree/master/0048-rotate-image) |
+| [0096-unique-binary-search-trees](https://github.com/aditya1212-29/ELITEDSA/tree/master/0096-unique-binary-search-trees) |
 | [0204-count-primes](https://github.com/aditya1212-29/ELITEDSA/tree/master/0204-count-primes) |
 | [1927-sum-game](https://github.com/aditya1212-29/ELITEDSA/tree/master/1927-sum-game) |
 | [3870-count-commas-in-range](https://github.com/aditya1212-29/ELITEDSA/tree/master/3870-count-commas-in-range) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aditya1212-29/ELITEDSA/tree/master/0005-longest-palindromic-substring) |
+| [0096-unique-binary-search-trees](https://github.com/aditya1212-29/ELITEDSA/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/aditya1212-29/ELITEDSA/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/aditya1212-29/ELITEDSA/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/aditya1212-29/ELITEDSA/tree/master/0152-maximum-product-subarray) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/aditya1212-29/ELITEDSA/tree/master/0096-unique-binary-search-trees) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aditya1212-29/ELITEDSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/aditya1212-29/ELITEDSA/tree/master/0096-unique-binary-search-trees) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aditya1212-29/ELITEDSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Recursion
 |  |
@@ -203,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/aditya1212-29/ELITEDSA/tree/master/0204-count-primes) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/aditya1212-29/ELITEDSA/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
