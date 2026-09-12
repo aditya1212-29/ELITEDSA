@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/aditya1212-29/ELITEDSA/tree/master/0048-rotate-image) |
 | [0096-unique-binary-search-trees](https://github.com/aditya1212-29/ELITEDSA/tree/master/0096-unique-binary-search-trees) |
 | [0204-count-primes](https://github.com/aditya1212-29/ELITEDSA/tree/master/0204-count-primes) |
+| [0241-different-ways-to-add-parentheses](https://github.com/aditya1212-29/ELITEDSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [1927-sum-game](https://github.com/aditya1212-29/ELITEDSA/tree/master/1927-sum-game) |
 | [3870-count-commas-in-range](https://github.com/aditya1212-29/ELITEDSA/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/aditya1212-29/ELITEDSA/tree/master/3871-count-commas-in-range-ii) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/aditya1212-29/ELITEDSA/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/aditya1212-29/ELITEDSA/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/aditya1212-29/ELITEDSA/tree/master/0152-maximum-product-subarray) |
+| [0241-different-ways-to-add-parentheses](https://github.com/aditya1212-29/ELITEDSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/aditya1212-29/ELITEDSA/tree/master/0940-distinct-subsequences-ii) |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/aditya1212-29/ELITEDSA/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 ## Bit Manipulation
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/aditya1212-29/ELITEDSA/tree/master/0006-zigzag-conversion) |
 | [0049-group-anagrams](https://github.com/aditya1212-29/ELITEDSA/tree/master/0049-group-anagrams) |
 | [0115-distinct-subsequences](https://github.com/aditya1212-29/ELITEDSA/tree/master/0115-distinct-subsequences) |
+| [0241-different-ways-to-add-parentheses](https://github.com/aditya1212-29/ELITEDSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/aditya1212-29/ELITEDSA/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/aditya1212-29/ELITEDSA/tree/master/1927-sum-game) |
 | [2055-plates-between-candles](https://github.com/aditya1212-29/ELITEDSA/tree/master/2055-plates-between-candles) |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/aditya1212-29/ELITEDSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aditya1212-29/ELITEDSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
@@ -219,4 +223,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/aditya1212-29/ELITEDSA/tree/master/0095-unique-binary-search-trees-ii) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/aditya1212-29/ELITEDSA/tree/master/0241-different-ways-to-add-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/aditya1212-29/ELITEDSA/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
