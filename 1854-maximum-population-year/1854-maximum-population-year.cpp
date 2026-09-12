@@ -1,21 +1,19 @@
 class Solution {
 public:
     int maximumPopulation(vector<vector<int>>& logs) {
-        vector<int>vec(101, 0);
+        vector<vector<int>> vec;
         for(int i = 0; i < logs.size(); i++){
-            int s = logs[i][0] - 1950;
-            int e = logs[i][1] - 1950;
-            vec[s] += 1;
-            vec[e] -= 1;
+            vec.push_back({logs[i][0], 1});
+            vec.push_back({logs[i][1], -1});
         }
-        int ans = 2051;
-        int sum = 0, maxi = 0;
-        for(int i = 0; i <= 100; i++){
-           sum += vec[i];
-           if(sum > maxi){
-                ans = i + 1950;
-                maxi = sum;
-           }
+        sort(vec.begin(), vec.end());
+        int cnt = 0, ans = 2051, maxcnt = 0;
+        for(int i = 0; i < vec.size(); i++){
+            cnt += vec[i][1];
+            if(cnt > maxcnt){
+                ans = vec[i][0];
+                maxcnt = cnt;
+            }
         }
         return ans;
     }
