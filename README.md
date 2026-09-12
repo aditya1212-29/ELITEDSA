@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/aditya1212-29/ELITEDSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/aditya1212-29/ELITEDSA/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/aditya1212-29/ELITEDSA/tree/master/2517-maximum-tastiness-of-candy-basket) |
+| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/aditya1212-29/ELITEDSA/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aditya1212-29/ELITEDSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3637-trionic-array-i](https://github.com/aditya1212-29/ELITEDSA/tree/master/3637-trionic-array-i) |
 | [3819-rotate-non-negative-elements](https://github.com/aditya1212-29/ELITEDSA/tree/master/3819-rotate-non-negative-elements) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/aditya1212-29/ELITEDSA/tree/master/0229-majority-element-ii) |
 | [1094-car-pooling](https://github.com/aditya1212-29/ELITEDSA/tree/master/1094-car-pooling) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/aditya1212-29/ELITEDSA/tree/master/2517-maximum-tastiness-of-candy-basket) |
+| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/aditya1212-29/ELITEDSA/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/aditya1212-29/ELITEDSA/tree/master/0152-maximum-product-subarray) |
 | [0241-different-ways-to-add-parentheses](https://github.com/aditya1212-29/ELITEDSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/aditya1212-29/ELITEDSA/tree/master/0940-distinct-subsequences-ii) |
+| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/aditya1212-29/ELITEDSA/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/aditya1212-29/ELITEDSA/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 ## Bit Manipulation
 |  |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/aditya1212-29/ELITEDSA/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/aditya1212-29/ELITEDSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/aditya1212-29/ELITEDSA/tree/master/2517-maximum-tastiness-of-candy-basket) |
+| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/aditya1212-29/ELITEDSA/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 ## Game Theory
 |  |
 | ------- |
@@ -149,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2055-plates-between-candles](https://github.com/aditya1212-29/ELITEDSA/tree/master/2055-plates-between-candles) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/aditya1212-29/ELITEDSA/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/aditya1212-29/ELITEDSA/tree/master/2517-maximum-tastiness-of-candy-basket) |
+| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/aditya1212-29/ELITEDSA/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 ## Sliding Window
 |  |
 | ------- |
