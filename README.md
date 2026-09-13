@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/aditya1212-29/ELITEDSA/tree/master/0713-subarray-product-less-than-k) |
 | [0729-my-calendar-i](https://github.com/aditya1212-29/ELITEDSA/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/aditya1212-29/ELITEDSA/tree/master/0731-my-calendar-ii) |
+| [0732-my-calendar-iii](https://github.com/aditya1212-29/ELITEDSA/tree/master/0732-my-calendar-iii) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/aditya1212-29/ELITEDSA/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [2055-plates-between-candles](https://github.com/aditya1212-29/ELITEDSA/tree/master/2055-plates-between-candles) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/aditya1212-29/ELITEDSA/tree/master/2302-count-subarrays-with-score-less-than-k) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/aditya1212-29/ELITEDSA/tree/master/0713-subarray-product-less-than-k) |
 | [0731-my-calendar-ii](https://github.com/aditya1212-29/ELITEDSA/tree/master/0731-my-calendar-ii) |
+| [0732-my-calendar-iii](https://github.com/aditya1212-29/ELITEDSA/tree/master/0732-my-calendar-iii) |
 | [1094-car-pooling](https://github.com/aditya1212-29/ELITEDSA/tree/master/1094-car-pooling) |
 | [1854-maximum-population-year](https://github.com/aditya1212-29/ELITEDSA/tree/master/1854-maximum-population-year) |
 | [2055-plates-between-candles](https://github.com/aditya1212-29/ELITEDSA/tree/master/2055-plates-between-candles) |
@@ -251,14 +253,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0729-my-calendar-i](https://github.com/aditya1212-29/ELITEDSA/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/aditya1212-29/ELITEDSA/tree/master/0731-my-calendar-ii) |
+| [0732-my-calendar-iii](https://github.com/aditya1212-29/ELITEDSA/tree/master/0732-my-calendar-iii) |
 ## Segment Tree
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/aditya1212-29/ELITEDSA/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/aditya1212-29/ELITEDSA/tree/master/0731-my-calendar-ii) |
+| [0732-my-calendar-iii](https://github.com/aditya1212-29/ELITEDSA/tree/master/0732-my-calendar-iii) |
 ## Ordered Set
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/aditya1212-29/ELITEDSA/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/aditya1212-29/ELITEDSA/tree/master/0731-my-calendar-ii) |
+| [0732-my-calendar-iii](https://github.com/aditya1212-29/ELITEDSA/tree/master/0732-my-calendar-iii) |
 <!---LeetCode Topics End-->
