@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/aditya1212-29/ELITEDSA/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/aditya1212-29/ELITEDSA/tree/master/0229-majority-element-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/aditya1212-29/ELITEDSA/tree/master/0713-subarray-product-less-than-k) |
+| [0835-image-overlap](https://github.com/aditya1212-29/ELITEDSA/tree/master/0835-image-overlap) |
 | [1094-car-pooling](https://github.com/aditya1212-29/ELITEDSA/tree/master/1094-car-pooling) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/aditya1212-29/ELITEDSA/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1854-maximum-population-year](https://github.com/aditya1212-29/ELITEDSA/tree/master/1854-maximum-population-year) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/aditya1212-29/ELITEDSA/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/aditya1212-29/ELITEDSA/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/aditya1212-29/ELITEDSA/tree/master/0073-set-matrix-zeroes) |
+| [0835-image-overlap](https://github.com/aditya1212-29/ELITEDSA/tree/master/0835-image-overlap) |
 ## Math
 |  |
 | ------- |
