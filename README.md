@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/aditya1212-29/ELITEDSA/tree/master/0096-unique-binary-search-trees) |
 | [0204-count-primes](https://github.com/aditya1212-29/ELITEDSA/tree/master/0204-count-primes) |
 | [0241-different-ways-to-add-parentheses](https://github.com/aditya1212-29/ELITEDSA/tree/master/0241-different-ways-to-add-parentheses) |
+| [0836-rectangle-overlap](https://github.com/aditya1212-29/ELITEDSA/tree/master/0836-rectangle-overlap) |
 | [1927-sum-game](https://github.com/aditya1212-29/ELITEDSA/tree/master/1927-sum-game) |
 | [3870-count-commas-in-range](https://github.com/aditya1212-29/ELITEDSA/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/aditya1212-29/ELITEDSA/tree/master/3871-count-commas-in-range-ii) |
@@ -266,4 +267,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/aditya1212-29/ELITEDSA/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/aditya1212-29/ELITEDSA/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/aditya1212-29/ELITEDSA/tree/master/0732-my-calendar-iii) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/aditya1212-29/ELITEDSA/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
