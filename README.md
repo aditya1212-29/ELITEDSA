@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/aditya1212-29/ELITEDSA/tree/master/0152-maximum-product-subarray) |
 | [0241-different-ways-to-add-parentheses](https://github.com/aditya1212-29/ELITEDSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/aditya1212-29/ELITEDSA/tree/master/0940-distinct-subsequences-ii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aditya1212-29/ELITEDSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/aditya1212-29/ELITEDSA/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/aditya1212-29/ELITEDSA/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 ## Bit Manipulation
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/aditya1212-29/ELITEDSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/aditya1212-29/ELITEDSA/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aditya1212-29/ELITEDSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aditya1212-29/ELITEDSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## String
 |  |
 | ------- |
@@ -139,12 +141,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/aditya1212-29/ELITEDSA/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/aditya1212-29/ELITEDSA/tree/master/1927-sum-game) |
 | [2055-plates-between-candles](https://github.com/aditya1212-29/ELITEDSA/tree/master/2055-plates-between-candles) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aditya1212-29/ELITEDSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/aditya1212-29/ELITEDSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Greedy
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/aditya1212-29/ELITEDSA/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/aditya1212-29/ELITEDSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aditya1212-29/ELITEDSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/aditya1212-29/ELITEDSA/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/aditya1212-29/ELITEDSA/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 ## Game Theory
