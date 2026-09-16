@@ -1,26 +1,21 @@
 class Solution {
 public:
     vector<vector<long long>> splitPainting(vector<vector<int>>& segments) {
-        vector<vector<long long>>ans;
         map<long long, long long>mp;
+        vector<vector<long long>> ans;
         for(int i = 0; i < segments.size(); i++){
-            mp[segments[i][0]] += 1LL * segments[i][2];
-            mp[segments[i][1]] -= 1LL * segments[i][2];
+            mp[segments[i][0]] += segments[i][2];
+            mp[segments[i][1]] -= segments[i][2];
         }
         auto it = mp.begin();
-        long long cnt = 1LL * it->second;
-        int s = it->first;
-        it = next(it);
+        long long sum = it->second;
+        it++;
         for(; it != mp.end(); it++){
-            ans.push_back({s, it->first, cnt});
-            cnt += it->second;
-            if(cnt == 0){
-                it = next(it);
-                if(it == mp.end()) 
-                return ans;
-                cnt += it->second;
+            if(sum > 0){
+                auto itt = prev(it);
+                ans.push_back({itt->first, it->first, sum});
             }
-            s = it->first;
+            sum += it->second;
         }
         return ans;
     }
