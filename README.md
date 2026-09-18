@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/aditya1212-29/ELITEDSA/tree/master/0204-count-primes) |
 | [0241-different-ways-to-add-parentheses](https://github.com/aditya1212-29/ELITEDSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0836-rectangle-overlap](https://github.com/aditya1212-29/ELITEDSA/tree/master/0836-rectangle-overlap) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aditya1212-29/ELITEDSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1927-sum-game](https://github.com/aditya1212-29/ELITEDSA/tree/master/1927-sum-game) |
 | [3870-count-commas-in-range](https://github.com/aditya1212-29/ELITEDSA/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/aditya1212-29/ELITEDSA/tree/master/3871-count-commas-in-range-ii) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/aditya1212-29/ELITEDSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0647-palindromic-substrings](https://github.com/aditya1212-29/ELITEDSA/tree/master/0647-palindromic-substrings) |
 | [0940-distinct-subsequences-ii](https://github.com/aditya1212-29/ELITEDSA/tree/master/0940-distinct-subsequences-ii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aditya1212-29/ELITEDSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aditya1212-29/ELITEDSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/aditya1212-29/ELITEDSA/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/aditya1212-29/ELITEDSA/tree/master/3877-minimum-removals-to-achieve-target-xor) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/aditya1212-29/ELITEDSA/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/aditya1212-29/ELITEDSA/tree/master/1109-corporate-flight-bookings) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/aditya1212-29/ELITEDSA/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aditya1212-29/ELITEDSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1854-maximum-population-year](https://github.com/aditya1212-29/ELITEDSA/tree/master/1854-maximum-population-year) |
 | [1943-describe-the-painting](https://github.com/aditya1212-29/ELITEDSA/tree/master/1943-describe-the-painting) |
 | [2055-plates-between-candles](https://github.com/aditya1212-29/ELITEDSA/tree/master/2055-plates-between-candles) |
@@ -290,4 +293,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/aditya1212-29/ELITEDSA/tree/master/0836-rectangle-overlap) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aditya1212-29/ELITEDSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
