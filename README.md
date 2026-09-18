@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/aditya1212-29/ELITEDSA/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/aditya1212-29/ELITEDSA/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/aditya1212-29/ELITEDSA/tree/master/0229-majority-element-ii) |
+| [0598-range-addition-ii](https://github.com/aditya1212-29/ELITEDSA/tree/master/0598-range-addition-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/aditya1212-29/ELITEDSA/tree/master/0713-subarray-product-less-than-k) |
 | [0729-my-calendar-i](https://github.com/aditya1212-29/ELITEDSA/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/aditya1212-29/ELITEDSA/tree/master/0731-my-calendar-ii) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/aditya1212-29/ELITEDSA/tree/master/0096-unique-binary-search-trees) |
 | [0204-count-primes](https://github.com/aditya1212-29/ELITEDSA/tree/master/0204-count-primes) |
 | [0241-different-ways-to-add-parentheses](https://github.com/aditya1212-29/ELITEDSA/tree/master/0241-different-ways-to-add-parentheses) |
+| [0598-range-addition-ii](https://github.com/aditya1212-29/ELITEDSA/tree/master/0598-range-addition-ii) |
 | [0836-rectangle-overlap](https://github.com/aditya1212-29/ELITEDSA/tree/master/0836-rectangle-overlap) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aditya1212-29/ELITEDSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1927-sum-game](https://github.com/aditya1212-29/ELITEDSA/tree/master/1927-sum-game) |
