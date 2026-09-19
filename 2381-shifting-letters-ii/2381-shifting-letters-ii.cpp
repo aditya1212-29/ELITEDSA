@@ -2,21 +2,21 @@ class Solution {
 public:
     string shiftingLetters(string s, vector<vector<int>>& shifts) {
         int n = s.size();
-        vector<int>vec(n, 0);
         int m = shifts.size();
+        vector<int>vec(n, 0);
         for(int i = 0; i < m; i++){
-            int l = shifts[i][0];
-            int r = shifts[i][1] + 1;
-            int d = shifts[i][2];
-            if(d == 0){
-                vec[l] -= 1;
-                if(r == n) continue;
-                vec[r] += 1;
+            int st = shifts[i][0];
+            int end = shifts[i][1] + 1;
+            int dir = shifts[i][2];
+            if(dir){
+                vec[st] += 1;
+                if(end == n) continue;
+                vec[end] -= 1;
             }
             else{
-                vec[l] += 1;
-                if(r == n) continue;
-                vec[r] -= 1;
+                vec[st] -= 1;
+                if(end == n) continue;
+                vec[end] += 1;
             }
         }
         for(int i = 1; i < n; i++){
@@ -24,27 +24,8 @@ public:
         }
         string str = "";
         for(int i = 0; i < n; i++){
-            if(vec[i] == 0){
-                str += s[i];
-            }
-            else if(vec[i] < 0){
-                int val = vec[i] % 26;
-                if(s[i] - 'a' + val < 0){
-                    str += 'a' + (s[i] - 'a' + val + 26);
-                }
-                else{
-                    str += 'a' + (s[i] - 'a' + val);
-                }
-            }
-            else{
-                int val = vec[i] % 26;
-                if(s[i] - 'a' + val >= 26){
-                    str += 'a' + (s[i] - 'a' + val - 26);
-                }
-                else{
-                    str += 'a' + (s[i] - 'a' + val);
-                }
-            }
+            int shift = vec[i] % 26;
+            str +=  'a' + (s[i] - 'a' + shift + 26) % 26;
         }
         return str;
     }
