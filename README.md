@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/aditya1212-29/ELITEDSA/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2381-shifting-letters-ii](https://github.com/aditya1212-29/ELITEDSA/tree/master/2381-shifting-letters-ii) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/aditya1212-29/ELITEDSA/tree/master/2517-maximum-tastiness-of-candy-basket) |
+| [2536-increment-submatrices-by-one](https://github.com/aditya1212-29/ELITEDSA/tree/master/2536-increment-submatrices-by-one) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/aditya1212-29/ELITEDSA/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/aditya1212-29/ELITEDSA/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3347-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/aditya1212-29/ELITEDSA/tree/master/3347-maximum-frequency-of-an-element-after-performing-operations-ii) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/aditya1212-29/ELITEDSA/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/aditya1212-29/ELITEDSA/tree/master/0073-set-matrix-zeroes) |
 | [0835-image-overlap](https://github.com/aditya1212-29/ELITEDSA/tree/master/0835-image-overlap) |
+| [2536-increment-submatrices-by-one](https://github.com/aditya1212-29/ELITEDSA/tree/master/2536-increment-submatrices-by-one) |
 ## Math
 |  |
 | ------- |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2055-plates-between-candles](https://github.com/aditya1212-29/ELITEDSA/tree/master/2055-plates-between-candles) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/aditya1212-29/ELITEDSA/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2381-shifting-letters-ii](https://github.com/aditya1212-29/ELITEDSA/tree/master/2381-shifting-letters-ii) |
+| [2536-increment-submatrices-by-one](https://github.com/aditya1212-29/ELITEDSA/tree/master/2536-increment-submatrices-by-one) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/aditya1212-29/ELITEDSA/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3347-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/aditya1212-29/ELITEDSA/tree/master/3347-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3355-zero-array-transformation-i](https://github.com/aditya1212-29/ELITEDSA/tree/master/3355-zero-array-transformation-i) |
