@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/aditya1212-29/ELITEDSA/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/aditya1212-29/ELITEDSA/tree/master/1109-corporate-flight-bookings) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/aditya1212-29/ELITEDSA/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aditya1212-29/ELITEDSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/aditya1212-29/ELITEDSA/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1854-maximum-population-year](https://github.com/aditya1212-29/ELITEDSA/tree/master/1854-maximum-population-year) |
 | [1943-describe-the-painting](https://github.com/aditya1212-29/ELITEDSA/tree/master/1943-describe-the-painting) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/aditya1212-29/ELITEDSA/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/aditya1212-29/ELITEDSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/aditya1212-29/ELITEDSA/tree/master/0229-majority-element-ii) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aditya1212-29/ELITEDSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1943-describe-the-painting](https://github.com/aditya1212-29/ELITEDSA/tree/master/1943-describe-the-painting) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aditya1212-29/ELITEDSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Divide and Conquer
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/aditya1212-29/ELITEDSA/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/aditya1212-29/ELITEDSA/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/aditya1212-29/ELITEDSA/tree/master/0732-my-calendar-iii) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aditya1212-29/ELITEDSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/aditya1212-29/ELITEDSA/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [2055-plates-between-candles](https://github.com/aditya1212-29/ELITEDSA/tree/master/2055-plates-between-candles) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/aditya1212-29/ELITEDSA/tree/master/2302-count-subarrays-with-score-less-than-k) |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/aditya1212-29/ELITEDSA/tree/master/0713-subarray-product-less-than-k) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aditya1212-29/ELITEDSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/aditya1212-29/ELITEDSA/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/aditya1212-29/ELITEDSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/aditya1212-29/ELITEDSA/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -214,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1109-corporate-flight-bookings](https://github.com/aditya1212-29/ELITEDSA/tree/master/1109-corporate-flight-bookings) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/aditya1212-29/ELITEDSA/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aditya1212-29/ELITEDSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aditya1212-29/ELITEDSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1854-maximum-population-year](https://github.com/aditya1212-29/ELITEDSA/tree/master/1854-maximum-population-year) |
 | [1943-describe-the-painting](https://github.com/aditya1212-29/ELITEDSA/tree/master/1943-describe-the-painting) |
 | [2055-plates-between-candles](https://github.com/aditya1212-29/ELITEDSA/tree/master/2055-plates-between-candles) |
