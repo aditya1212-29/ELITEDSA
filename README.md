@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/aditya1212-29/ELITEDSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aditya1212-29/ELITEDSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3637-trionic-array-i](https://github.com/aditya1212-29/ELITEDSA/tree/master/3637-trionic-array-i) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/aditya1212-29/ELITEDSA/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3819-rotate-non-negative-elements](https://github.com/aditya1212-29/ELITEDSA/tree/master/3819-rotate-non-negative-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aditya1212-29/ELITEDSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/aditya1212-29/ELITEDSA/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aditya1212-29/ELITEDSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/aditya1212-29/ELITEDSA/tree/master/0169-majority-element) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/aditya1212-29/ELITEDSA/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3347-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/aditya1212-29/ELITEDSA/tree/master/3347-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3355-zero-array-transformation-i](https://github.com/aditya1212-29/ELITEDSA/tree/master/3355-zero-array-transformation-i) |
 | [3356-zero-array-transformation-ii](https://github.com/aditya1212-29/ELITEDSA/tree/master/3356-zero-array-transformation-ii) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/aditya1212-29/ELITEDSA/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3903-smallest-stable-index-i](https://github.com/aditya1212-29/ELITEDSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/aditya1212-29/ELITEDSA/tree/master/3904-smallest-stable-index-ii) |
 ## Heap (Priority Queue)
