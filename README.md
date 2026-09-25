@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/aditya1212-29/ELITEDSA/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/aditya1212-29/ELITEDSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/aditya1212-29/ELITEDSA/tree/master/0229-majority-element-ii) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aditya1212-29/ELITEDSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aditya1212-29/ELITEDSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1943-describe-the-painting](https://github.com/aditya1212-29/ELITEDSA/tree/master/1943-describe-the-painting) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aditya1212-29/ELITEDSA/tree/master/3483-unique-3-digit-even-numbers) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/aditya1212-29/ELITEDSA/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/aditya1212-29/ELITEDSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/aditya1212-29/ELITEDSA/tree/master/0229-majority-element-ii) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aditya1212-29/ELITEDSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1094-car-pooling](https://github.com/aditya1212-29/ELITEDSA/tree/master/1094-car-pooling) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/aditya1212-29/ELITEDSA/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1943-describe-the-painting](https://github.com/aditya1212-29/ELITEDSA/tree/master/1943-describe-the-painting) |
@@ -255,17 +257,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/aditya1212-29/ELITEDSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/aditya1212-29/ELITEDSA/tree/master/0096-unique-binary-search-trees) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aditya1212-29/ELITEDSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aditya1212-29/ELITEDSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/aditya1212-29/ELITEDSA/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aditya1212-29/ELITEDSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aditya1212-29/ELITEDSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/aditya1212-29/ELITEDSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/aditya1212-29/ELITEDSA/tree/master/0096-unique-binary-search-trees) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aditya1212-29/ELITEDSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aditya1212-29/ELITEDSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/aditya1212-29/ELITEDSA/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Recursion
@@ -342,5 +347,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aditya1212-29/ELITEDSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/aditya1212-29/ELITEDSA/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 <!---LeetCode Topics End-->
