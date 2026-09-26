@@ -23,20 +23,16 @@ public:
         if(root == NULL) return root;
         q.push(root);
         while(!q.empty()){
-            vector<Node*>vec;
             int s = q.size();
-            for(int i = 0; i < s; i++){
-                Node* node = q.front();
+            Node *pre = NULL;
+            for(int i = 0 ; i < s; i++){
+                Node *node = q.front();
                 q.pop();
-                vec.push_back(node);
-                if(node->left != NULL)
-                q.push(node->left);
-                if(node->right != NULL)
-                q.push(node->right);
-            }
-            for(int i = 1; i < vec.size(); i++){
-                vec[i-1]->next = vec[i];
-            }
+                if(pre != NULL) pre->next = node;
+                pre = node;
+                if(node->left != NULL) q.push(node->left);
+                if(node->right != NULL) q.push(node->right);
+           }
         } 
         return root;
     }
