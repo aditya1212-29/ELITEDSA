@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/aditya1212-29/ELITEDSA/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aditya1212-29/ELITEDSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/aditya1212-29/ELITEDSA/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aditya1212-29/ELITEDSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1854-maximum-population-year](https://github.com/aditya1212-29/ELITEDSA/tree/master/1854-maximum-population-year) |
 | [1943-describe-the-painting](https://github.com/aditya1212-29/ELITEDSA/tree/master/1943-describe-the-painting) |
 | [2055-plates-between-candles](https://github.com/aditya1212-29/ELITEDSA/tree/master/2055-plates-between-candles) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/aditya1212-29/ELITEDSA/tree/master/0229-majority-element-ii) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aditya1212-29/ELITEDSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aditya1212-29/ELITEDSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aditya1212-29/ELITEDSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1943-describe-the-painting](https://github.com/aditya1212-29/ELITEDSA/tree/master/1943-describe-the-painting) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aditya1212-29/ELITEDSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Divide and Conquer
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/aditya1212-29/ELITEDSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0647-palindromic-substrings](https://github.com/aditya1212-29/ELITEDSA/tree/master/0647-palindromic-substrings) |
 | [0940-distinct-subsequences-ii](https://github.com/aditya1212-29/ELITEDSA/tree/master/0940-distinct-subsequences-ii) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aditya1212-29/ELITEDSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/aditya1212-29/ELITEDSA/tree/master/1927-sum-game) |
 | [2055-plates-between-candles](https://github.com/aditya1212-29/ELITEDSA/tree/master/2055-plates-between-candles) |
 | [2381-shifting-letters-ii](https://github.com/aditya1212-29/ELITEDSA/tree/master/2381-shifting-letters-ii) |
