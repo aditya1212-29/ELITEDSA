@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/aditya1212-29/ELITEDSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0647-palindromic-substrings](https://github.com/aditya1212-29/ELITEDSA/tree/master/0647-palindromic-substrings) |
 | [0940-distinct-subsequences-ii](https://github.com/aditya1212-29/ELITEDSA/tree/master/0940-distinct-subsequences-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aditya1212-29/ELITEDSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aditya1212-29/ELITEDSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/aditya1212-29/ELITEDSA/tree/master/1927-sum-game) |
 | [2055-plates-between-candles](https://github.com/aditya1212-29/ELITEDSA/tree/master/2055-plates-between-candles) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/aditya1212-29/ELITEDSA/tree/master/0241-different-ways-to-add-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aditya1212-29/ELITEDSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Design
 |  |
 | ------- |
@@ -365,4 +367,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aditya1212-29/ELITEDSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
+## Stack
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aditya1212-29/ELITEDSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
