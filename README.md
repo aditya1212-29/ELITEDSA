@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1943-describe-the-painting](https://github.com/aditya1212-29/ELITEDSA/tree/master/1943-describe-the-painting) |
 | [2055-plates-between-candles](https://github.com/aditya1212-29/ELITEDSA/tree/master/2055-plates-between-candles) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/aditya1212-29/ELITEDSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/aditya1212-29/ELITEDSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/aditya1212-29/ELITEDSA/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2381-shifting-letters-ii](https://github.com/aditya1212-29/ELITEDSA/tree/master/2381-shifting-letters-ii) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/aditya1212-29/ELITEDSA/tree/master/2517-maximum-tastiness-of-candy-basket) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/aditya1212-29/ELITEDSA/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/aditya1212-29/ELITEDSA/tree/master/0073-set-matrix-zeroes) |
 | [0835-image-overlap](https://github.com/aditya1212-29/ELITEDSA/tree/master/0835-image-overlap) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/aditya1212-29/ELITEDSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2536-increment-submatrices-by-one](https://github.com/aditya1212-29/ELITEDSA/tree/master/2536-increment-submatrices-by-one) |
 ## Math
 |  |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/aditya1212-29/ELITEDSA/tree/master/0647-palindromic-substrings) |
 | [0940-distinct-subsequences-ii](https://github.com/aditya1212-29/ELITEDSA/tree/master/0940-distinct-subsequences-ii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aditya1212-29/ELITEDSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/aditya1212-29/ELITEDSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aditya1212-29/ELITEDSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/aditya1212-29/ELITEDSA/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/aditya1212-29/ELITEDSA/tree/master/3877-minimum-removals-to-achieve-target-xor) |
@@ -331,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/aditya1212-29/ELITEDSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aditya1212-29/ELITEDSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aditya1212-29/ELITEDSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/aditya1212-29/ELITEDSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Design
 |  |
 | ------- |
