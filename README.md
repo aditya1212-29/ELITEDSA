@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/aditya1212-29/ELITEDSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/aditya1212-29/ELITEDSA/tree/master/0096-unique-binary-search-trees) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aditya1212-29/ELITEDSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aditya1212-29/ELITEDSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/aditya1212-29/ELITEDSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aditya1212-29/ELITEDSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aditya1212-29/ELITEDSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/aditya1212-29/ELITEDSA/tree/master/0079-word-search) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aditya1212-29/ELITEDSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aditya1212-29/ELITEDSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/aditya1212-29/ELITEDSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aditya1212-29/ELITEDSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aditya1212-29/ELITEDSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/aditya1212-29/ELITEDSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/aditya1212-29/ELITEDSA/tree/master/0096-unique-binary-search-trees) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aditya1212-29/ELITEDSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aditya1212-29/ELITEDSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/aditya1212-29/ELITEDSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aditya1212-29/ELITEDSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aditya1212-29/ELITEDSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -383,4 +386,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aditya1212-29/ELITEDSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aditya1212-29/ELITEDSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aditya1212-29/ELITEDSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aditya1212-29/ELITEDSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
