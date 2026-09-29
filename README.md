@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/aditya1212-29/ELITEDSA/tree/master/0049-group-anagrams) |
 | [0059-spiral-matrix-ii](https://github.com/aditya1212-29/ELITEDSA/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/aditya1212-29/ELITEDSA/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/aditya1212-29/ELITEDSA/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/aditya1212-29/ELITEDSA/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/aditya1212-29/ELITEDSA/tree/master/0152-maximum-product-subarray) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/aditya1212-29/ELITEDSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/aditya1212-29/ELITEDSA/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/aditya1212-29/ELITEDSA/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/aditya1212-29/ELITEDSA/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/aditya1212-29/ELITEDSA/tree/master/0079-word-search) |
 | [0835-image-overlap](https://github.com/aditya1212-29/ELITEDSA/tree/master/0835-image-overlap) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/aditya1212-29/ELITEDSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2536-increment-submatrices-by-one](https://github.com/aditya1212-29/ELITEDSA/tree/master/2536-increment-submatrices-by-one) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/aditya1212-29/ELITEDSA/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/aditya1212-29/ELITEDSA/tree/master/0006-zigzag-conversion) |
 | [0049-group-anagrams](https://github.com/aditya1212-29/ELITEDSA/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/aditya1212-29/ELITEDSA/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/aditya1212-29/ELITEDSA/tree/master/0093-restore-ip-addresses) |
 | [0115-distinct-subsequences](https://github.com/aditya1212-29/ELITEDSA/tree/master/0115-distinct-subsequences) |
 | [0241-different-ways-to-add-parentheses](https://github.com/aditya1212-29/ELITEDSA/tree/master/0241-different-ways-to-add-parentheses) |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/aditya1212-29/ELITEDSA/tree/master/0079-word-search) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aditya1212-29/ELITEDSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/aditya1212-29/ELITEDSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aditya1212-29/ELITEDSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -322,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/aditya1212-29/ELITEDSA/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/aditya1212-29/ELITEDSA/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/aditya1212-29/ELITEDSA/tree/master/0095-unique-binary-search-trees-ii) |
 ## Memoization
