@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aditya1212-29/ELITEDSA/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/aditya1212-29/ELITEDSA/tree/master/0006-zigzag-conversion) |
+| [0020-valid-parentheses](https://github.com/aditya1212-29/ELITEDSA/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/aditya1212-29/ELITEDSA/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/aditya1212-29/ELITEDSA/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/aditya1212-29/ELITEDSA/tree/master/0093-restore-ip-addresses) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/aditya1212-29/ELITEDSA/tree/master/0020-valid-parentheses) |
 | [0241-different-ways-to-add-parentheses](https://github.com/aditya1212-29/ELITEDSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/aditya1212-29/ELITEDSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aditya1212-29/ELITEDSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/aditya1212-29/ELITEDSA/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/aditya1212-29/ELITEDSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aditya1212-29/ELITEDSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aditya1212-29/ELITEDSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
