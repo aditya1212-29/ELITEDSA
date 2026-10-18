@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/aditya1212-29/ELITEDSA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/aditya1212-29/ELITEDSA/tree/master/0073-set-matrix-zeroes) |
+| [0142-linked-list-cycle-ii](https://github.com/aditya1212-29/ELITEDSA/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/aditya1212-29/ELITEDSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/aditya1212-29/ELITEDSA/tree/master/0229-majority-element-ii) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/aditya1212-29/ELITEDSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/aditya1212-29/ELITEDSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/aditya1212-29/ELITEDSA/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aditya1212-29/ELITEDSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0142-linked-list-cycle-ii](https://github.com/aditya1212-29/ELITEDSA/tree/master/0142-linked-list-cycle-ii) |
 | [0647-palindromic-substrings](https://github.com/aditya1212-29/ELITEDSA/tree/master/0647-palindromic-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aditya1212-29/ELITEDSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3356-zero-array-transformation-ii](https://github.com/aditya1212-29/ELITEDSA/tree/master/3356-zero-array-transformation-ii) |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aditya1212-29/ELITEDSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0142-linked-list-cycle-ii](https://github.com/aditya1212-29/ELITEDSA/tree/master/0142-linked-list-cycle-ii) |
 ## Stack
 |  |
 | ------- |
@@ -418,4 +421,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aditya1212-29/ELITEDSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/aditya1212-29/ELITEDSA/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
